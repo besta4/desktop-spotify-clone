@@ -45,10 +45,6 @@ To run the Spotify Clone project locally, follow these steps:
 
 Once the application is running, you can navigate through the different sections using the sidebar navigation. Explore the various content sections to discover new music or access your library. Use the music player controls at the bottom to play, pause, skip tracks, and adjust volume.
 
-## Contributing
-
-Contributions to the Spotify Clone project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the contribution guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute the code for personal or commercial use.
